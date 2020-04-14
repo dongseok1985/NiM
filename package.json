@@ -10,7 +10,7 @@
     "bootstrap": "*",
     "bootstrap-notify": "*",
     "jquery": "*",
-    "materialize-css": "^0.98.2",
+    "materialize-css": "^0.99.0",
     "moment": "*",
     "nouislider": "*",
     "perfect-scrollbar": "^0.6.16",
